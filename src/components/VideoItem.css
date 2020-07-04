@@ -1,0 +1,22 @@
+.video-item {
+  color: white;
+  margin-top: .1rem;
+  background-color: #2C2F33;
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+  border: 1px solid;
+  border-color: #99AAB5;
+}
+
+.video-item.item img {
+  max-width: 180px;
+}
+
+.content {
+  color: white;
+}
+
+.header {
+  color: white;
+}

@@ -1,0 +1,73 @@
+.root {
+  background-color: white;
+}
+
+.ui.segment {
+  background-color: #2C2F33;
+}
+
+.SearchBar {
+  width: 90%;
+  position: relative;
+  background-color: white;
+  margin-bottom: 3vh;
+}
+
+.header {
+  color: white;
+}
+
+.video-item {
+  color: white;
+}
+
+.field {
+  font-size: 20px;
+}
+
+.sblegend {
+  color: white;
+  width: 100%;
+  position: relative;
+  margin-top: 4.5vh;
+}
+
+.sblegend:hover {
+  color: #E62E5C;
+}
+
+.image-list {
+  margin-top: 0vh !important;
+}
+
+.imagelistlegend {
+  position: relative;
+  color: white;
+  width: 100%;
+}
+
+.imagelistlegend:hover {
+  color: #E62E5C;
+}
+
+.image-list img:hover {
+  border: 2.5px solid #E62E5C;
+}
+
+.logolegend {
+  position: absolute;
+  right: 18%;
+  top: 20%;
+}
+
+.logo:hover {
+  border: 2.5px solid #E62E5C;
+}
+
+.SearchBar:hover {
+  border: 2.5px solid #E62E5C;
+}
+
+.image-list:hover {
+  border: 2.5px solid #E62E5C;
+}

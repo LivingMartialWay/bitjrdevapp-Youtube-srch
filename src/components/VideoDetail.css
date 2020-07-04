@@ -1,0 +1,12 @@
+.ui.segment {
+  margin-top: 2.4rem;
+  margin-bottom: 1.4rem;
+  color: #99AAB5;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.ui.header {
+  font-size: 1.6rem !important;
+  color: #99AAB5;
+}
